@@ -2,8 +2,8 @@
 Rest API Demo with Spring Boot 
 
  ## Including tools
- Maven 
- MySQL
+ Maven\ 
+ MySQL\
  JPA
  
  
