@@ -1,5 +1,7 @@
-package com.example;
+package com.example.controller;
 
+import com.example.repository.BlogRepository;
+import com.example.entity.Blog;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -10,8 +12,6 @@ import java.util.Map;
 public class BlogController {
 
 
-
-    //BlogMockedData blogMockedData = BlogMockedData.getInstance();
 
     @Autowired
     BlogRepository blogRepository;
