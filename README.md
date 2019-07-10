@@ -1,7 +1,7 @@
 # springRest
 Rest API Demo with Spring Boot 
 
- ## Including tools
+ ## Tools
 <ul>
 <li>Maven</li>
 <li>MySQL</li>
